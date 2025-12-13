@@ -23,10 +23,10 @@ w3cp:
       kid: "#key-1"
     polkadot:
       mnemonic: "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
-      passphrase: "asdf" #"${CP_POLKADOT_PASS:change-me-pls}"
+      passphrase: "${CP_POLKADOT_PASS:change-me-pls}"
       kid: "#key-1"
   cp:
-    cp-id: "cp-test-000" # "${CP_ID:cp-default}"
+    cp-id: "${CP_ID:cp-default}"
     identity-type: "polkadot"  # "bare-key", "kilt", or "polkadot"
     charge-ports:
       - charge-port-id: 1
