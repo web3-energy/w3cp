@@ -1,4 +1,4 @@
-# W3CP-OCPP 1.6J Compatibility Layer
+# W3CP Identity Experiment over OCPP 1.6J (Research)
 
 ## Why Not DataTransfer?
 

@@ -1,6 +1,22 @@
 # Web3 Charge Protocol Specification
 Web3 Charge Protocol (W3CP) – A modern, identity-first EV charging protocol designed for simplicity, security, and Web3-native integration.
 
+## ⚠️ Project Status: Experimental / Research
+
+W3CP is currently an **experimental research and demonstration project**.
+W3CP does **not** implement or extend OCPP and is **not intended** to be an OCPP-compatible protocol.
+
+W3CP explores a fundamentally different, identity-first architecture for EV charging.
+Any future interoperability with existing protocols, if pursued, would be handled via **separate compatibility or adapter layers**, outside the core protocol specification.
+
+- This specification and any accompanying demos are **not production-ready**
+- APIs, data models, and flows **may change without notice**
+- No stability, security, or availability guarantees are provided
+- Not intended for commercial or operational use at this stage
+- Project does not support OCPP and is not intended to.
+
+The goal of the project at this phase is **exploration, validation, and iteration** of ideas around identity-first EV charging.
+
 # Why Web3 Charge Protocol
 ### Let's start with WHY!
 
